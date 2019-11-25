@@ -1,13 +1,16 @@
 /*
- *Name: [First Last]
- *UnityID: [unityID]
- *Date: [Date Completed]
- *Assignment: [Assignment Name]
- *Description: [Assignment Description]
+ Name: Saabiq Bondre
+ *UnityID: smbondre
+ *Date: 11/24/19
+ *Assignment: Website Design and Styling Independant Assignment
+ *Description: Intro to XHTML and Styling
  */
  
-p {
-    property: value;
+.paragraph_2{
+    font-family:Times ;
+    font-size: 16px;
+    color: #0000ff;
+    text-align: center;
 }
 
 .class {
